@@ -1,0 +1,9 @@
+{
+  "item.totem.use": {
+    "replace": true,
+    "sounds": [
+      "item/totem/use",
+      "item/totem/use1"
+    ]
+  }
+}
