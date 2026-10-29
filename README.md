@@ -1,5 +1,13 @@
-# N3TU-s-Custom-Plushy-Totems
-Github for N3TU's Custom Plushy Totems 
+# N3TU's Custom Plushy Totems
 
-Here are the source Codes for N3TU's Custom Plushy Totems!
-https://modrinth.com/resourcepack/n3tus-custom-plushy-totems
+Source code for **N3TU's Custom Plushy Totems**, a Minecraft resource pack that gives the Totem of Undying a plushie-inspired look.
+
+## Download
+
+Get the resource pack on Modrinth:
+
+[N3TU's Custom Plushy Totems](https://modrinth.com/resourcepack/n3tus-custom-plushy-totems)
+
+## About
+
+This repository contains the source files for the resource pack. Feel free to explore the project and its files.
